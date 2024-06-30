@@ -1,0 +1,21 @@
+@font-face {
+    font-family: Roboto;
+    src: url('../fuente/RobotoCondensed-VariableFont_wght.ttf');
+}
+#diseño1{
+    border: 2px 3px rgb(74, 57, 148);
+    background-color: white;
+    margin: 10px 20%;
+    border-radius: 2px 2px;
+
+}
+.boton1{
+    width: 90px;
+    height: 50px;
+    font-family: Roboto;
+    text-align: center;
+    background-color: green;
+    color: white;
+    border-radius: 10px 10px;
+    display: inline-block;
+}
